@@ -28,3 +28,4 @@ local.properties
 *.launch
 /HelloWorld/nbproject/private/
 /HelloWorld/build/
+/FactoryPattern/nbproject/private/

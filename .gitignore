@@ -26,12 +26,3 @@ local.properties
 
 # Locally stored "Eclipse launch configurations"
 *.launch
-/HelloWorld/nbproject/private/
-/HelloWorld/build/
-/FactoryPattern/nbproject/private/
-/FactoryPattern/build/
-/JavaApplication3/nbproject/private/
-/HelloWorldApp/nbproject/private/
-/HelloWorldApp/build/
-/HelloWorldApp/dist/
-/TemplateMethodTeaAndCoffee/nbproject/private/
